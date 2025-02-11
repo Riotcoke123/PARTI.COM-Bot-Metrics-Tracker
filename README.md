@@ -22,7 +22,6 @@
         </li>
         <li><strong>Ensure your environment supports Python 3.</strong></li>
     </ol>
-
     <h2>Usage</h2>
     <ol>
         <li><strong>Run the Python script:</strong>
