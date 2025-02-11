@@ -3,6 +3,7 @@
 <head>
 </head>
 <body>
+    ![H9FmR9bq_400x400](https://github.com/user-attachments/assets/83186047-819d-4fa6-bac6-5a4df81c8a8f)
     <h1>PARTI.COM Bot Metrics Tracker</h1>
     <p>This Python script tracks bot metrics by fetching data from the <strong>Parti API</strong> and calculates real viewers based on a specified botting behavior (either 12 users = 1 real user, or 8 users = 1 real user).</p>
     <h2>Features:</h2>
