@@ -15,7 +15,7 @@
     <h2>Installation</h2>
     <ol>
         <li><strong>Clone this repository or download the Python script.</strong>
-            <pre><code>git clone &lt;repository_url&gt;</code></pre>
+            <pre><code>git clone https://github.com/Riotcoke123/PARTI.COM-Bot-Metrics-Tracker</code></pre>
         </li>
         <li><strong>Install the required Python dependencies.</strong>
             <pre><code>pip install requests</code></pre>
@@ -49,7 +49,6 @@
     </ul>
     <p>Every time the script updates, it randomly chooses between these two ratios to calculate the <code>real_viewers</code> value.</p>
     <h2>License</h2>
-    <p>This project is open-source and available for personal or educational use. Please do not use it for any malicious activities.</p>
-
+<p>This project is open-source and available for personal and educational use. Please ensure it is not used for any malicious activities. By using this tool, you agree to comply with the Parti.com Terms of Service. Please note that this open-source project is currently being tested in beta.</p>
 </body>
 </html>
