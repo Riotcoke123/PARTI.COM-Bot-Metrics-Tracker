@@ -48,7 +48,7 @@
         <li><strong>8 users = 1 real user</strong></li>
     </ul>
     <p>Every time the script updates, it randomly chooses between these two ratios to calculate the <code>real_viewers</code> value.</p>
-    <h2>License</h2>
-<p>This project is open-source and available for personal and educational use. Please ensure it is not used for any malicious activities. By using this tool, you agree to comply with the Parti.com Terms of Service. Please note that this open-source project is currently being tested in beta.</p>
+<h2>License</h2>
+<p>This project is licensed under the <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank">GNU General Public License v3.0</a>. It is open-source and available for personal and educational use. Please ensure it is not used for any malicious activities. By using this tool, you agree to comply with the Parti.com Terms of Service. Please note that this open-source project is currently in beta testing.</p>
 </body>
 </html>
