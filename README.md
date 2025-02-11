@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-    ![H9FmR9bq_400x400](https://github.com/user-attachments/assets/83186047-819d-4fa6-bac6-5a4df81c8a8f)
+    <img src="https://github.com/user-attachments/assets/83186047-819d-4fa6-bac6-5a4df81c8a8f" alt="PARTI.COM Bot Metrics Tracker" width="200" height="200">
     <h1>PARTI.COM Bot Metrics Tracker</h1>
     <p>This Python script tracks bot metrics by fetching data from the <strong>Parti API</strong> and calculates real viewers based on a specified botting behavior (either 12 users = 1 real user, or 8 users = 1 real user).</p>
     <h2>Features:</h2>
@@ -49,7 +49,7 @@
         <li><strong>8 users = 1 real user</strong></li>
     </ul>
     <p>Every time the script updates, it randomly chooses between these two ratios to calculate the <code>real_viewers</code> value.</p>
-<h2>License</h2>
-<p>This project is licensed under the <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank">GNU General Public License v3.0</a>. It is open-source and available for personal and educational use. Please ensure it is not used for any malicious activities. By using this tool, you agree to comply with the Parti.com Terms of Service. Please note that this open-source project is currently in beta testing.</p>
+    <h2>License</h2>
+    <p>This project is licensed under the <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank">GNU General Public License v3.0</a>. It is open-source and available for personal and educational use. Please ensure it is not used for any malicious activities. By using this tool, you agree to comply with the Parti.com Terms of Service. Please note that this open-source project is currently in beta testing.</p>
 </body>
 </html>
